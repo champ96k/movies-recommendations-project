@@ -4,6 +4,9 @@
    - VueJS for building reactive HTML front-end.
 
 
+#### Demo link: [Click Here](https://demo.rapidquest.in/movie_recommendation/static/index.html)
+
+
 #### web2py
 
 Web2py is an open-source web application framework written in the Python programming language. Web2py allows web developers to program dynamic web content using Python [More info](https://en.wikipedia.org/wiki/Web2py)
