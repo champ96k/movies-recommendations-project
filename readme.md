@@ -23,8 +23,8 @@ To start web2py there is NO NEED to install it. Just unzip and do:
       
 That's it!!!
 
- ### A quick note on some important folders / files:
-  - All your web2py apps/projects are contained in this directory.
+ ### Start server
+ 
   - web2py.py: We can start our web server by running this script:
     
             - cd Downloads/web2py_src
