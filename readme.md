@@ -7,20 +7,12 @@
 #### Demo link: [Click Here](https://demo.rapidquest.in/movie_recommendation/static/index.html)
 
 
-#### web2py
-
-Web2py is an open-source web application framework written in the Python programming language. Web2py allows web developers to program dynamic web content using Python [More info](https://en.wikipedia.org/wiki/Web2py)
-
-
-#### VueJS
-
-Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications. It was created by Evan You, and is maintained by him and the rest of the active core team members[More info](https://vuejs.org/v2/guide/)
-
-
 ### web2py
 web2py is a free open source full-stack framework for rapid development of fast, scalable, secure and portable database-driven web-based applications.
 
-It is written and programmable in Python. LGPLv3 License
+It is written and programmable in Python. LGPLv3 License 
+
+Learn more at [http://web2py.com](https://en.wikipedia.org/wiki/Web2py)
 
 
 ### Installation Instructions
@@ -83,6 +75,10 @@ That's it!!!
    - Views: hosts your HTML code
    - Controllers: Python code where you will write business logic and manages interactions between front-end and the database.
 
+
+#### VueJS
+
+Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications. It was created by Evan You, and is maintained by him and the rest of the active core team members[More info](https://vuejs.org/v2/guide/)
 
 
 #### Posters 
