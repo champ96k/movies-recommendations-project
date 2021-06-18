@@ -17,6 +17,20 @@ Web2py is an open-source web application framework written in the Python program
 Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications. It was created by Evan You, and is maintained by him and the rest of the active core team members[More info](https://vuejs.org/v2/guide/)
 
 
+### web2py
+web2py is a free open source full-stack framework for rapid development of fast, scalable, secure and portable database-driven web-based applications.
+
+It is written and programmable in Python. LGPLv3 License
+
+
+### Installation Instructions
+
+To start web2py there is NO NEED to install it. Just unzip and do:
+
+      python web2py.py
+      
+That's it!!!
+
  ### A quick note on some important folders / files:
   - All your web2py apps/projects are contained in this directory.
   - web2py.py: We can start our web server by running this script:
@@ -25,11 +39,51 @@ Vue.js is an open-source model–view–viewmodel front end JavaScript framework
             - python web2py.py
 
 
+### web2py directory structure
+
+      project/
+          README
+          LICENSE
+          VERSION                    > this web2py version
+          web2py.py                  > the startup script
+          anyserver.py               > to run with third party servers
+          wsgihandler.py             > handler to connect to WSGI
+          ...                        > other handlers and example files
+          gluon/                     > the core libraries
+              contrib/               > third party libraries
+              tests/                 > unittests
+          applications/              > are the apps
+          admin/                 > web based IDE
+                  ...
+              examples/              > examples, docs, links
+                  ...
+              welcome/               > the scaffolding app (they all copy it)
+                  ABOUT
+                  LICENSE
+                  models/
+                  views/
+                  controllers/
+                  sessions/
+                  errors/
+                  cache/
+                  static/
+                  uploads/
+                  modules/
+                  cron/
+                  tests/
+              ...                    > your own apps
+          scripts/                   > utility and installation scripts
+          site-packages/             > additional optional modules
+
+
+
 #### Web2py inherently supports MVC (Model View Controller) architecture.
 
    - Models: define database schema and validations
    - Views: hosts your HTML code
    - Controllers: Python code where you will write business logic and manages interactions between front-end and the database.
+
+
 
 #### Posters 
 
